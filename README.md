@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eyasaoudi609
-- 👀 I’m interested in embedded systems and machine learning
-- 🌱 I’m currently learning 
+- 👀 I’m interested in embedded systems and machine learning 
 - 💞️ I’m looking to collaborate on machine learning and embedded systems projects
 - 📫 How to reach me 
 * https://www.facebook.com/eya.saoudi1999/
